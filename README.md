@@ -8,3 +8,8 @@ Black swan (Cygnus atratus) Hi-C + tgsgapcloser assembly
 Mute swan (Cygnus olor) genome cyOlorv2.0 genome NCBI
 
 We used the first longest 34 scaffolds/chromosomes for this alignment and the hal file created was called with halSynteny of the Progressive cactus suite as described in https://academic.oup.com/gigascience/article/9/6/giaa047/5848161
+
+##Further processing
+
+We removed mitochondrion sequences and other superscaffold sequences from the genome fasta files.
+ALso we renamed the fasta headers to start with "chr" in each fasta sequence 
