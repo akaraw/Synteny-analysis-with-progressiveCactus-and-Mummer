@@ -1,0 +1,6 @@
+(chicken;anc01(duck;anc02(muteswan;blackswan)))
+
+chicken*  chicken.fa
+duck  duck.fa
+muteswan  muteswan.fa
+blackswan blackswan.fa
