@@ -1,4 +1,4 @@
-# Synteny-analysis-with-Cactus-hal
+# Synteny-analysis-with-Cactus
 This pipeline describes the method of multiple avian genome analysis and synteny analysis 
 ***The genomes used are as follows***
 
