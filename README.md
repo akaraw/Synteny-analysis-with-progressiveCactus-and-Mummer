@@ -3,6 +3,10 @@ __citation:__
 Ksenia Krasheninnikova, Mark Diekhans, Joel Armstrong, Aleksei Dievskii, Benedict Paten, Stephen O’Brien, halSynteny: a fast, easy-to-use conserved synteny block construction method for multiple whole-genome alignments, GigaScience, Volume 9, Issue 6, June 2020, giaa047, https://doi.org/10.1093/gigascience/giaa047
 This pipeline describes the method of multiple avian genome analysis and synteny analysis 
 
+__A synteny block__
+
+Krasheninnikova __et al__.(2020): "A synteny block is a sequence of local alignments that in eahc genme maintain the following properties: (i) are on 1 chromosome, (ii) do not overlap, (iii) are on the same strand, and (iv) have chromosome sequence coordinates that are either monotonically increasing (for pistive strand) or decreasing for negative strand."
+
 ***The genomes used are as follows***
 Pekin duck genome (Anas platyrhynchos) ZJU1.0 NCBI
 
